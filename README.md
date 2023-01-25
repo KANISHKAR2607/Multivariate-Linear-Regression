@@ -37,7 +37,8 @@ print('Predicted CO2 for the corresponding weight and volume',predictedCO2)
 ```
 ### Output:
 ## Insert your output:
-![image](https://user-images.githubusercontent.com/119875375/214352963-5b6f7875-d7a6-4c19-a40a-2e1e438e4fee.png)
+
+![kani multi](https://user-images.githubusercontent.com/118886772/214640364-bc628ea6-2c73-4386-806c-02557428f667.png)
 
 
 ## Result:
